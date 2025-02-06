@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HanNotSoSolo
 - 👀 I’m interested in aeronautics and aerospace sciences, and I often create small projects on PC and Arduino boards
-- 🌱 I’m currently learning Aerospace engineering
+- 🌱 I’m currently doing a Ph.D in astrophysics and learning -the best I can- to compute data!
 - 💞️ I’m looking to collaborate on everything that could help me improve my programming skills
 - 📫 How to reach me: use my email
 
